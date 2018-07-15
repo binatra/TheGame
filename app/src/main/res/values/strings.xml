@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheGame</string>
+    <string name="start">Start</string>
+    <string name="score">Score</string>
+    <string name="change">Change:</string>
+    <string name="score_board_init" />
+</resources>
